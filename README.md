@@ -13,15 +13,15 @@ Derivatives offer a wide range of tools and techniques for managing risk, specul
  
 2. OPTIONS
 Options are derivative contracts that provide the holder with the right, but not the obligation, to buy or sell the FTSE 100 index (the underlying asset) at a predetermined price (strike price) within a specified time. Let's break down the key elements:
-Call Options
+### Call Options
 Call options provide the holder with the right to buy the FTSE 100 index at the strike price within a specified time. If the FTSE 100 index price rises above the strike price, the call option can be exercised, allowing the holder to purchase the index at a lower price and potentially profit from the price difference.
 Call options are often used by traders who anticipate an upward movement in the FTSE 100 index. By buying call options, they can participate in potential gains without having to directly own the underlying stocks.
-Put Options
+### Put Options
 Put options grant the holder the right to sell the FTSE 100 index at the strike price within a specified time. If the FTSE 100 index price falls below the strike price, the put option can be exercised, enabling the holder to sell the index at a higher price and potentially profit from the price difference.
 Put options are commonly used by traders who expect the FTSE 100 index to decline. By purchasing put options, they can protect their portfolios against potential losses or potentially profit from downward movements in the index.
-Strike Price
+### Strike Price
 The strike price is a predetermined price at which the underlying FTSE 100 index can be bought or sold upon exercising the option. It is established when the option contract is created and remains fixed throughout the option's duration.
 Traders select the strike price based on their market outlook, risk tolerance, and trading strategy. Different strike prices are available for different options, allowing traders to choose the level at which they want to buy or sell the FTSE 100 index.
-Expiration Date
+### Expiration Date
 Options have an expiration date, which indicates the last date on which the option can be exercised. After the expiration date, the option becomes invalid and loses its value.
 Traders need to consider the time remaining until expiration when selecting options. Options with longer durations offer more time for market movements to occur, but they also tend to be more expensive.
